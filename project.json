@@ -1,0 +1,10 @@
+{
+    "name": "megaman",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "megaman.xml",
+    "author": "MEGAMAN1222",
+    "minimum_firmware_version": 42
+}
